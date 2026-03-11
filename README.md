@@ -1,4 +1,5 @@
-📘 Robocopy com Multithread e Barra de Progresso (Batch)
+        📘 Robocopy com Multithread e Barra de Progresso (Batch)
+
 Este projeto fornece um script em Batch (.bat) que aprimora o uso do Robocopy no Windows, adicionando:
 
 Multithread (/MT:128)
