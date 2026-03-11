@@ -34,7 +34,7 @@ O objetivo é tornar a cópia de grandes volumes de dados mais clara, mais rápi
 
 ⚙️ Como usar
 
-Baixe o arquivo robocopy_multithread_progress.bat.
+Baixe o arquivo copiar e colar.bat.
 Execute com duplo clique ou via CMD.
 Informe:
 
