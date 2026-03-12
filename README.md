@@ -39,6 +39,7 @@ Execute com duplo clique ou via CMD.
 Informe:
 
 Pasta origem
+
 Pasta destino
 
 Aguarde enquanto o spinner e o cronômetro indicam progresso.
